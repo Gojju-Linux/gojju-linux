@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="mlinux logo">
+  <rect width="256" height="256" rx="56" fill="#0B0F14"/>
+  <!-- stylised "m": two arches, one stem -->
+  <path d="M60 192V104a34 34 0 0 1 68 0v88M128 104a34 34 0 0 1 68 0v88"
+        fill="none" stroke="#7CF2C4" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- boot prompt cursor -->
+  <rect x="64" y="212" width="40" height="10" rx="5" fill="#E6EDF3"/>
+</svg>

@@ -30,7 +30,7 @@ Plain, warm, builder-to-builder, with a little flavour. Never claim hardware wor
 Headings: a friendly geometric sans (Inter or system UI). Code and terminal: JetBrains Mono or system monospace.
 
 ## Logo
-`assets/logo.svg`: a tomato with a green calyx, holding a terminal prompt (`>_`). Use on the dark background. Keep clear space equal to the cursor height. Don't recolour, rotate or add effects.
+`assets/logo.svg`: a tomato with a green calyx, with a soft highlight. Use on the dark background. Keep clear space of at least a quarter of the logo width. Don't recolour, rotate or add effects.
 
 ## Hardware status badges
 Worded exactly:

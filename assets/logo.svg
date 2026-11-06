@@ -14,7 +14,4 @@
     <ellipse cx="0" cy="24" rx="10" ry="26"/>
     <rect x="-5" y="-26" width="10" height="30" rx="5" fill="#3F7A3C"/>
   </g>
-  <!-- boot prompt -->
-  <path d="M92 142l30 22-30 22" fill="none" stroke="#FFF1E0" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="134" y="180" width="42" height="13" rx="6.5" fill="#FFF1E0"/>
 </svg>

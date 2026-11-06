@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/logo.svg" width="128" alt="mlinux"></p>
+<p align="center"><img src="assets/logo.svg" width="128" alt="Gojju Linux"></p>
 
-# mlinux
+# Gojju Linux
 
-**Linux, native on Apple Silicon.**
+**Linux, native on Apple Silicon.** Tangy, spicy, homemade.
 
-An open project to boot Linux on Apple's M4 Macs and build a distro around it. Early stage: research and planning, nothing boots yet.
+Named after *tomato gojju*, the Karnataka dish. An open project to boot Linux on Apple's M4 Macs and build a distro around it. Early stage: research and planning, nothing boots yet.
 
 ## Status
 
@@ -25,7 +25,7 @@ See [ROADMAP.md](ROADMAP.md).
 
 ## Standing on others' work
 
-mlinux depends on research by the Asahi Linux, Gravity Linux and Omarchy-M4-Native projects. See [CREDITS.md](CREDITS.md). Not affiliated with any of them or with Apple.
+Gojju depends on research by the Asahi Linux, Gravity Linux and Omarchy-M4-Native projects. See [CREDITS.md](CREDITS.md). Not affiliated with any of them or with Apple.
 
 ## Safety
 

@@ -1,8 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="mlinux logo">
-  <rect width="256" height="256" rx="56" fill="#0B0F14"/>
-  <!-- stylised "m": two arches, one stem -->
-  <path d="M60 192V104a34 34 0 0 1 68 0v88M128 104a34 34 0 0 1 68 0v88"
-        fill="none" stroke="#7CF2C4" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- boot prompt cursor -->
-  <rect x="64" y="212" width="40" height="10" rx="5" fill="#E6EDF3"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Gojju Linux logo">
+  <rect width="256" height="256" rx="56" fill="#1A0F0D"/>
+  <!-- tomato body -->
+  <circle cx="128" cy="144" r="84" fill="#E8452C"/>
+  <!-- soft shading and highlight -->
+  <path d="M128 228a84 84 0 0 0 84-84c0-8-1-15-3-22-12 54-50 92-96 100 5 4 10 6 15 6z" fill="#C0281A" opacity=".55"/>
+  <ellipse cx="86" cy="112" rx="14" ry="26" transform="rotate(28 86 112)" fill="#FFF1E0" opacity=".28"/>
+  <!-- calyx: five leaves fanning over the top, plus a stem -->
+  <g transform="translate(128 66)" fill="#5FA05A">
+    <ellipse cx="0" cy="24" rx="10" ry="26" transform="rotate(-78)"/>
+    <ellipse cx="0" cy="24" rx="10" ry="26" transform="rotate(78)"/>
+    <ellipse cx="0" cy="24" rx="10" ry="26" transform="rotate(-38)"/>
+    <ellipse cx="0" cy="24" rx="10" ry="26" transform="rotate(38)"/>
+    <ellipse cx="0" cy="24" rx="10" ry="26"/>
+    <rect x="-5" y="-26" width="10" height="30" rx="5" fill="#3F7A3C"/>
+  </g>
+  <!-- boot prompt -->
+  <path d="M92 142l30 22-30 22" fill="none" stroke="#FFF1E0" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="134" y="180" width="42" height="13" rx="6.5" fill="#FFF1E0"/>
 </svg>

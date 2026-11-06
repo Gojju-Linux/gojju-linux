@@ -1,6 +1,6 @@
 # Credits
 
-mlinux would not exist without these projects. Keep their licences and notices intact whenever we reuse anything.
+Gojju Linux would not exist without these projects. Keep their licences and notices intact whenever we reuse anything.
 
 - [Asahi Linux](https://asahilinux.org/): Apple Silicon reverse engineering, m1n1 and kernel drivers
 - [m1n1](https://github.com/AsahiLinux/m1n1): the bootloader and hypervisor tooling
